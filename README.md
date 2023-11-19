@@ -6,5 +6,5 @@ The main parts of this repository is:
 lal_bbh_ jframe_np.py -  compute the fisher matrix using J-Frame parameters for an IMRPhenom in GWbench/Wf_models
 microlensed_np.py - compute the fisher matrix for a microlensed waveform in GWbench/Wf_models
 ringdown_np.py - compute the fisher matrix for a damped sinusoids ringdown waveform in GWbench/Wf_models
-
+Two example scripts that calculates the fisher matrix, statistical and systematic errors.
 
